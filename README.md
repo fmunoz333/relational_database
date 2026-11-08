@@ -505,13 +505,25 @@ HAVING Count(*) > 1;
 
 ---
 
-## 12. About the Author
+## 👤 About the Author & Contact
 
-**Fernando Muñoz**: Project and program leader with 30+ years of experience in telecommunications (BellSouth, Telefónica, Amdocs, SBA Communications). PMP, PSM I and two Six Sigma Black Belt certifications. Based in Quito, Ecuador; bilingual (Spanish and English).
+**Fernando Muñoz** — Senior Data Analyst / Project & Program Management Consultant  
+*30+ Years Leading Technology & Infrastructure Programs ($84M+ Portfolios)*
 
-Through **FxMr** I offer remote consulting to international clients in **project management, data analytics, database design and automation**.
+- **PMP® Certified** | **Scrum Master (PSM I)** | **Six Sigma Black Belt**
+- 🌐 **Interactive Portfolio:** [fmunoz333.github.io/fernando-munoz-cv](https://fmunoz333.github.io/fernando-munoz-cv/)
+- 💼 **Services & Consulting:** [fmunoz333.github.io/professional-services](https://fmunoz333.github.io/professional-services/)
+- 📧 **Email:** [fxmr.consult@gmail.com](mailto:fxmr.consult@gmail.com)
+- 🔗 **LinkedIn:** [linkedin.com/in/fernando-munoz-4737571](https://www.linkedin.com/in/fernando-munoz-4737571)
 
-- Email: [fxmr.consult@gmail.com](mailto:fxmr.consult@gmail.com)
-- LinkedIn: [LinkedIn profile](https://www.linkedin.com/in/fernando-munoz-4737571)
+---
 
-*Looking for a database built around your project questions? Get in touch.*
+<div align="center">
+
+**⭐ If you find this project showcase useful, please consider giving it a star! ⭐**
+
+Made by Fernando Muñoz
+
+[⬆ Back to Top](#-terranova-4g-100--project-management)
+
+</div>
