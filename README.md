@@ -1,4 +1,4 @@
-# Terranova: Relational Database & Executive Reporting System
+# Relational Database & Executive Reporting System
 
 ![Database](https://img.shields.io/badge/Database-Microsoft%20Access-A4373A?style=for-the-badge)
 ![SQL](https://img.shields.io/badge/Query%20Language-SQL%20%28ACE%29-4479A1?style=for-the-badge)
