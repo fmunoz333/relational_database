@@ -524,6 +524,4 @@ HAVING Count(*) > 1;
 
 Made by Fernando Muñoz
 
-[⬆ Back to Top](#-terranova-4g-100--project-management)
-
 </div>
